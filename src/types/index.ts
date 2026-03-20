@@ -1,3 +1,7 @@
+/**
+ * MonadPay - Core TypeScript Type Definitions
+ * Agent, Transaction, Proposal, Toast interfaces
+ */
 // Type definitions for MonadPay
 
 export type AgentStatus = 'working' | 'idle' | 'offline';
@@ -65,3 +69,4 @@ export interface ThemeColors {
     text: string;
     light: string;
 }
+
