@@ -1,4 +1,4 @@
-import AgentPayDashboard from './AgentPayDashboard';
+import AgentPayDashboard from './AgentPayDashboard_NEW';
 import ErrorBoundary from './ErrorBoundary';
 
 function App() {
