@@ -63,7 +63,7 @@ The **Fleet** view lists all autonomous AI payment agents with their trust score
 
 ---
 
-### Neural Ledger — Transaction History
+### Neural Ledger — Transaction History 
 
 Every payment routed through the system is logged here. You can also initiate new payments from this view.
 
